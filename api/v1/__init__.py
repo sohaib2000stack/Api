@@ -5,3 +5,4 @@ from .arithmetic_operations import multiply_numbers
 from .arithmetic_operations import divide_numbers
 from .arithmetic_operations import add_numbers
 from .arithmetic_operations import subtract_numbers
+from .lcm import router as calculate_lcm
